@@ -1,7 +1,7 @@
 # Coleta de Dados no site Status Invest 
 site: https://statusinvest.com.br/ 
 Coleta de Dados do site Status Invest "B3 - Bolsa Valores Brasil"
-- retidado do fundo do baú o projeto rsrsrs 
+- retirado do fundo do baú o projeto rsrsrs 
 
 ### Projeto de 2019 em Python - WebScraping
 Link Bases: https://1drv.ms/u/s!Aq7afOrVCVo-gY5Qgw0G8MYYv7ckUw?e=j6uyVP
